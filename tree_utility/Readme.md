@@ -5,8 +5,10 @@
 
 `go run tree_utility/tree.go . -f`
 
+```
 ├───README.md (18b)
 ├───empty_file.txt (empty)
 └───tree_utility
 	├───Readme.md (68b)
 	└───tree.go (2528b)
+```
